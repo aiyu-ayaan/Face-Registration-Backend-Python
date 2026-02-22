@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# SQLite database
+attendance.db
+
+# Models and large files
+models/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test files
+*.tmp
+*.bak
+
+# Ignore Jupyter Notebooks
+*.ipynb
+
+# Ignore build artifacts
+dist/
+build/
+*.egg-info/
